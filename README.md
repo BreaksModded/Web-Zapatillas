@@ -9,7 +9,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-00C7B7?style=for-the-badge)](https://web.dev/responsive-web-design-basics/)
 
-[Demo en Vivo]([#](https://web-zapatillas.vercel.app/)) · [Reportar Bug](https://github.com/tu-usuario/limpiazapatillas/issues) · [Solicitar Función](https://github.com/tu-usuario/limpiazapatillas/issues)
+[Demo en Vivo](https://web-zapatillas.vercel.app/) · [Reportar Bug](https://github.com/tu-usuario/limpiazapatillas/issues) · [Solicitar Función](https://github.com/tu-usuario/limpiazapatillas/issues)
 
 </div>
 
